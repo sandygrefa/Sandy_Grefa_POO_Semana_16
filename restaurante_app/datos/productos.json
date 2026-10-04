@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Encebollado",
+        "precio": 3.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Maito de pescado",
+        "precio": 5.0,
+        "stock": 15
+    }
+]

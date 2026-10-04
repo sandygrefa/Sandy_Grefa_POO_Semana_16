@@ -1,0 +1,26 @@
+[
+    {
+        "identificador": "DEMO0001",
+        "usuario_identificacion": "CLI001",
+        "producto_codigo": "P001",
+        "fecha": "2026-10-04T14:40:15"
+    },
+    {
+        "identificador": "DEMO0002",
+        "usuario_identificacion": "EMP001",
+        "producto_codigo": "P002",
+        "fecha": "2026-10-04T14:42:03"
+    },
+    {
+        "identificador": "DEMO0003",
+        "usuario_identificacion": "CLI001",
+        "producto_codigo": "P002",
+        "fecha": "2026-10-04T14:44:26"
+    },
+    {
+        "identificador": "DEMO0004",
+        "usuario_identificacion": "EMP001",
+        "producto_codigo": "P001",
+        "fecha": "2026-10-04T14:47:10"
+    }
+]
